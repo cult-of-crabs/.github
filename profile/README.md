@@ -1,1 +1,28 @@
-Hello
+<p align="center">
+  <img src="./assets/crabs_banner.jpg">
+</p>
+
+
+<h2 align="center">
+    Cult of Crabs
+</h2>
+
+
+<h6 align="center">
+    <a href=''>Website</a>
+    ·
+    Other
+</h6>
+
+
+<p align="center">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in ipsum sit amet augue interdum tempus eget sed urna. Integer orci tortor, luctus nec enim id, consequat vehicula eros. Morbi commodo placerat nulla nec malesuada. Nulla vel ligula ultricies, volutpat tortor nec, convallis nunc. Etiam a mauris placerat, suscipit est commodo, cursus metus.
+</p>
+
+
+<h4 align="center">
+    <a href=''>Litote</a>
+    (<a href=''>docs</a> | <a href=''>discussions</a>)
+    ·
+    Other
+</h4>
