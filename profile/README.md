@@ -9,7 +9,7 @@
 
 
 <h6 align="center">
-    <a href=''>Website</a>
+    <a href='https://github.com/cult-of-crabs'>Website</a>
     ·
     Discord
 </h6>
@@ -21,7 +21,7 @@
 
 
 <h4 align="center">
-    <a href=''>Asyndète</a>
+    <a href='https://github.com/cult-of-crabs'>Asyndète</a>
     (<a href='https://cult-of-crabs.github.io/.github/asyndete.html'>docs</a>)
     ·
     Other
