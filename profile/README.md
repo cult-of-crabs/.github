@@ -22,6 +22,7 @@
 
 <h4 align="center">
     <a href=''>Asyndète</a>
+    (<a href='https://cult-of-crabs.github.io/.github/asyndete.html'>docs</a>)
     ·
     Other
 </h4>
