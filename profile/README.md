@@ -11,7 +11,7 @@
 <h6 align="center">
     <a href=''>Website</a>
     ·
-    Other
+    Discord
 </h6>
 
 
@@ -21,8 +21,7 @@
 
 
 <h4 align="center">
-    <a href=''>Litote</a>
-    (<a href=''>docs</a> | <a href=''>discussions</a>)
+    <a href=''>Asyndète</a>
     ·
     Other
 </h4>
